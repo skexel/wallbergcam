@@ -3,7 +3,7 @@ const { Telegraf } = require('telegraf');
 const cron = require('node-cron');
 
 // Füge hier deinen Telegram Bot Token ein
-const bot = new Telegraf('DEIN_TELEGRAM_BOT_TOKEN');
+const bot = new Telegraf('7275055565:AAEjpBd_HZDc4mheJMLwmyrVhz2Jlu03suw');
 
 // Funktion, um das aktuelle Datum und die Zeit zu berechnen
 function getCurrentImageUrl() {
